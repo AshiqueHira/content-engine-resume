@@ -1,7 +1,7 @@
 # 02 · Content concept
 
 **Purpose:** Write the post itself: hook, body copy, CTA, and a brief for the visuals.
-**Input:** `01-strategy` output, plus feedback from `03-smm-ai-review` if this is a revision
+**Input:** `01-strategy` output, plus feedback from `03-smm-ai-review` if this is a revision (`03-smm-ai-review/review.md` for concept reviews, `05-output/<post>/review.md` for copy fixes from the output review)
 **Output:** `concept.md` (on revisions, overwrite it and bump `version`)
 
 ## Prompt

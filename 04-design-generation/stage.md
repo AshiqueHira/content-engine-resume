@@ -1,7 +1,7 @@
 # 04 · Design generation
 
 **Purpose:** Turn the approved visual brief into image files.
-**Input:** The concept that passed `03-smm-ai-review`
+**Input:** The concept that passed `03-smm-ai-review` (concept mode), plus `05-output/<post>/review.md` if the output review sent image fixes back here
 **Output:** Images and a `design.md` note, saved to `05-output/`
 
 ## Approach (pick one per post, and record which)

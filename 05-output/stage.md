@@ -5,4 +5,6 @@
 - `post.md`: final caption per channel, CTA, hashtags, scheduled time
 - `*.png`: images from `04-design-generation`
 
-Only posts in this folder can be published by `06-publish`.
+- `review.md`: written by the `smm-reviewer` agent (03, output mode). Don't edit it by hand.
+
+When the folder is complete, run the `smm-reviewer` agent in output mode on it. Only posts in this folder whose `review.md` verdict is `pass` can be published by `06-publish`.

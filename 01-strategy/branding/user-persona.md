@@ -1,15 +1,46 @@
 # User persona
 
-<!-- One section per persona. Strategy picks one persona per post. -->
+<!-- One section per persona. Strategy picks one persona per post.
+     Market: India, with a home base of Kochi, Kerala. Persona 1 is the PRIMARY audience (the default when a request names none).
+     Market context (research, Oct 2026; re-verify before quoting any number in a post):
+     - Kerala youth (15–29) unemployment is ~28–30% vs ~10–17% nationally (PLFS 2023-24, as reported by The Quint and Ideas for India); female youth is ~47%.
+     - Graduate unemployment in Kerala is ~42% (PLFS 2022-23 analysis). "Jobs exist but unemployment persists": a skills/presentation gap, which is our opening.
+     - Infopark Kochi (Kakkanad) is the main IT hiring hub. Freshers apply through off-campus drives (online test → technical → HR).
+     - Gulf migration: ~2.1M Kerala emigrants (KMS 2018). Many returned after COVID, and Gulf professionals keep returning to Kerala (Gulf News).
+     - Job discovery happens heavily in WhatsApp job channels and groups (Kerala + Gulf job alerts, often in Malayalam). -->
 
-## Persona 1: <name, e.g. "Job-switching Priya">
-- **Role / situation:**
-- **Age range / location:**
-- **Goals:**
-- **Pains / frustrations:**
-- **What they believe (and what we need to change):**
-- **Objections to our product:**
-- **Where they spend time online:**
-- **Content they engage with:**
-- **Words they use (in their own language):**
-- **What makes them act:**
+## Persona 1 (PRIMARY): "Fresher Arjun", the Infopark hopeful
+- **Role / situation:** A 2025/2026 B.Tech (CSE/ECE) graduate from a KTU-affiliated private engineering college, or a BCA/MCA grad. No campus placement, or a service-company offer that got delayed. Now applying off-campus to Infopark and SmartCity firms in Kakkanad, plus Bangalore and remote roles. He has been applying for 2–6 months and has sent 50+ applications for maybe 3 interview calls. His current resume is a Word file a senior shared, edited from a college template, or a Canva design with two columns and a photo.
+- **Age range / location:** 21–25. Lives with his parents in or around Kochi (Aluva, Edappally, Kalamassery, Thrissur or Kottayam, commuting by Kochi Metro or bus). Mid-range Android phone, shared laptop.
+- **Goals:** Get his *first* job (₹2.5–4.5 LPA is fine) at a "proper company" in Infopark. Stop answering "pani aayo?" (got a job yet?) from relatives. Get an interview call, not just an "application received" email.
+- **Pains / frustrations:** Applications vanish into Naukri, LinkedIn and Infopark portals with no reply. He doesn't know whether a bot or a human rejected him. "What do I write with no experience?" Paid resume tools paywall the download or add a watermark. Every senior's template looks different, and the advice contradicts itself. He feels ashamed as the gap since graduation gets longer.
+- **What they believe (and what we need to change):** *"My resume has to look creative to stand out, with a photo, two columns, skill bars and a Canva design."* → Most first screens are ATS software, and fancy layouts scramble the text it reads. **Simple + parseable = more calls.** *"Free resume makers always have a catch."* → Ours has no watermark, no download limit and no card. *"It's my college/CGPA, not my resume."* → Projects, internships and skills worded right can carry a fresher.
+- **Objections to our product:** "Free? Then they'll sell my data or paywall it at download." (Answer: no paywall at download, the PDF import runs in your browser, and you can start without signing up.) "It looks too plain." "I already have a Canva resume." "Will it actually get me calls?" (Never promise; explain the ATS logic and show before→after.)
+- **Where they spend time online:** Instagram (Reels at night, meme pages, career and tech creators), YouTube (Malayalam tech/placement channels, interview prep), WhatsApp (college batch groups, Kerala job-alert channels, Infopark drive forwards), LinkedIn (newly active, mostly scrolling, posts his certificate once), Naukri/Indeed/Infopark careers page, Telegram off-campus drive channels.
+- **Content they engage with:** "Resume mistakes" carousels, before→after resume makeovers, "How I got placed at Infopark as a fresher" stories, off-campus drive alerts, relatable job-hunt memes ("Expected: 'We'll get back to you.' Reality: 🦗"), quick Reels on interview prep. He saves checklists and sends them to his batchmates.
+- **Words they use (in their own language):** "fresher aanu, experience illa" (I'm a fresher, no experience), "call onnum varunilla" (no calls coming), "off-campus drive", "Infopark-il oru job", "ATS-friendly resume", "resume onnu nokkamo?" (can you check my resume?), "CGPA kuravaanu" (my CGPA is low), "bro / machane", "notice period", "package etra?" (what's the package?), "referral undo?" (got a referral?), "career gap"
+- **What makes them act:** A specific, fixable mistake he recognises in his own resume. Proof that it's actually free (no watermark shown in the video). "5 minutes", with something he can do tonight. A drive deadline ("Infopark drive on Saturday, fix your resume today"). A friend sending him the post. Being able to share a review link with a senior for comments.
+
+## Persona 2: "Gulf-bound Shameer", the experienced professional chasing the GCC
+- **Role / situation:** 4–12 years of experience in accounts, sales, an engineering site role, nursing, a hospitality supervisor role or IT support, working in Kochi or the Malabar region. He wants a Gulf job (UAE, Qatar or Saudi) for the salary jump, or is a Gulf-returnee trying to re-enter the Kerala job market after layoffs or nationalisation. His CV hasn't been properly updated in years; an agent or a typing shop made it.
+- **Age range / location:** 27–40. From Kochi, Malappuram, Kozhikode or Thrissur, or currently in the UAE/Qatar and looking back at Kerala.
+- **Goals:** A CV that looks right to Gulf recruiters (photo, nationality, visa status, DOB, passport details) *and* still passes ATS on Bayt, LinkedIn and Naukrigulf. If he's a returnee: show Gulf experience as an asset to Kerala employers. Fast tailoring for each opening.
+- **Pains / frustrations:** Unsure which format the Gulf expects compared with India. Agents and CV-writing services charge ₹500–₹2,000, then he can't edit the file himself. He can't easily keep two versions (Gulf vs India). Returnees face "overqualified" or "skills outdated" rejections at home.
+- **What they believe (and what we need to change):** *"The agent's CV is good enough; Gulf hiring is all about contacts."* → Contacts get you seen, but a clean, correctly formatted CV gets you shortlisted, and you can make it yourself for free. *"One CV fits every country."* → The Gulf, India, the UK and the EU each expect different things.
+- **Objections to our product:** "I'm not good with computers/English." "My agent will do it." "Will a free website handle Gulf format?" (Yes: dedicated Gulf/GCC templates with or without a photo.)
+- **Where they spend time online:** Facebook (Gulf Malayali groups, job groups), WhatsApp (Gulf job-alert channels, family groups), YouTube (Malayalam Gulf-jobs and visa channels), LinkedIn (moderately), Naukrigulf, Bayt.
+- **Content they engage with:** Practical step-by-steps: "Gulf CV vs India CV: what changes", "What UAE recruiters check in 6 seconds", "How to show Gulf experience on a Kerala resume". Success stories of returnees. Simple explainer graphics in English with Malayalam hooks.
+- **Words they use (in their own language):** "Gulf-il oru job", "CV" (not "resume"), "visa status", "Dubai-ilekku apply cheyyan", "agent", "experience certificate", "Saudi / UAE / Qatar", "nattil oru job" (a job back home), "salary etra kittum?" (how much salary will I get?)
+- **What makes them act:** Seeing the Gulf template with a photo and personal details done right. "Make it yourself, free; no agent fee." Keeping an India version and a Gulf version in one free account. Simple, reassuring steps.
+
+## Persona 3: "Restarting Anjali", the career-restarter after a break
+- **Role / situation:** A graduate (B.Com, B.Sc, B.Tech or MBA) who worked 2–5 years, then took a 2–6 year break for marriage, children, caregiving or a spouse's Gulf posting. Now she wants to return, possibly to Infopark back-office, finance or ops roles, teaching, or remote and hybrid work. Women make up the largest share of Kerala's unemployed educated youth.
+- **Age range / location:** 28–38. Kochi suburbs (Kakkanad, Tripunithura, Aluva), or newly returned to Kerala from the Gulf with her family.
+- **Goals:** Get back to work without the career gap sinking her application. Find hybrid or remote options near home. Rebuild confidence.
+- **Pains / frustrations:** "How do I explain the gap?" Her old resume is outdated and its formats feel unfamiliar. She worries recruiters will judge her. She doesn't want to pay for a tool before knowing whether it helps. She has little time, mostly on her phone.
+- **What they believe (and what we need to change):** *"The gap disqualifies me, so I should hide it."* → A short, honest gap line, along with recent courses or freelance work, reads better than an unexplained hole. *"I need to redo everything from scratch."* → Import the old PDF and update it in minutes.
+- **Objections to our product:** "I'm not tech-savvy." "Is my data safe?" (The PDF import runs in her browser.) "I'll do it when I'm ready." (It's free and takes 5 minutes, so start a draft.)
+- **Where they spend time online:** Instagram (lifestyle, career-restart and women-in-work creators), Facebook (Kerala women's groups, local job groups), WhatsApp, LinkedIn (rejoining).
+- **Content they engage with:** "How to write a career gap on your resume" with exact wording, restart success stories, remote and hybrid job lists for Kochi, gentle encouragement with practical steps.
+- **Words they use (in their own language):** "career break", "gap undu" (I have a gap), "restart", "work from home", "hybrid", "back to work", "kids school-il poyi" (the kids started school), "confidence illa" (no confidence)
+- **What makes them act:** A copy-pasteable gap sentence. Seeing that she can import her old resume and edit it on her phone. A warm, non-judgemental tone. A friend or mentor she can send a review link to before applying.
